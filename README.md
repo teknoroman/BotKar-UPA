@@ -1,2 +1,2 @@
 # BotKar-UPA
-Hezkunta maila erabiltzeko robota.
+Hezkunta mailan erabiltzeko robota.
