@@ -1,4 +1,4 @@
 # BotKar-UPA
-### Hezkunta mailan erabiltzeko robota.
+### Hezkuntza mailan erabiltzeko robota.
 
 ![](./BotKarUPA.png)
